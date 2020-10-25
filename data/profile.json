@@ -97,6 +97,9 @@
           "name": "Pixi"
         },
         {
+          "name": "Pygame"
+        },
+        {
           "name": "P5JS"
         },
         {
