@@ -8,6 +8,7 @@ import InstagramIcon from '../assets/instagram.svg';
 import BehanceIcon from '../assets/behance.svg';
 import DribbbleIcon from '../assets/dribbble.svg';
 import AngelIcon from '../assets/angellist.svg';
+import Mail from "../assets/mail.svg"
 
 const SocialIcon = ({ type }) => {
   switch (type) {
@@ -29,6 +30,8 @@ const SocialIcon = ({ type }) => {
       return <DribbbleIcon className="footer-social-icon" />;
     case 'angellist':
       return <AngelIcon className="footer-social-icon" />;
+    case 'mail':
+      return <Mail className="footer-social-icon"/>
     default:
       return null;
   }

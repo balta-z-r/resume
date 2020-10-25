@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+886 963 545 053",
+    "email": "zunigaruizb@gmail.com",
+    "website": "https://balta-z-r.com",
+    "location": "Taipei, Taiwan"
   },
   "skills": [
     {
@@ -11,48 +11,24 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
-        },
-        {
-          "name": "Mobile/Web App Development",
-          "percent": 95
-        },
-        {
-          "name": "Product Management",
-          "percent": 85
-        },
-        {
-          "name": "Project Management",
-          "percent": 92
+          "name": "Backend Development",
+          "percent": 90
         },
         {
           "name": "Game Development",
           "percent": 70
         },
         {
-          "name": "Blockchain",
+          "name": "Mobile App Development",
           "percent": 85
         },
         {
-          "name": "Dev Ops",
-          "percent": 81
+          "name": "UI / UX",
+          "percent": 75
         },
         {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
-          "percent": 80
+          "name": "Web App Development",
+          "percent": 95
         }
       ]
     },
@@ -61,32 +37,25 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
-          "percent": 96
-        },
-        {
-          "name": "Java",
-          "percent": 82
-        },
-        {
-          "name": "Python",
-          "percent": 85
-        },
-        {
           "name": "C#",
-          "percent": 74
-        },
-        {
-          "name": "Solidity",
-          "percent": 85
-        },
-        {
-          "name": "Dart",
-          "percent": 75
+          "percent": 80
         },
         {
           "name": "Go",
-          "percent": 60
+          "percent": 50
+        },
+        {
+          "name": "Java",
+          "percent": 65
+        },
+        {
+          "name": "Javascript / Typescript",
+          "percent": 95
+        },
+
+        {
+          "name": "Python",
+          "percent": 85
         }
       ]
     },
@@ -95,64 +64,49 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "React"
-        },
-        {
-          "name": "Flutter"
-        },
-        {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Spring"
-        },
-        {
-          "name": "Angular"
+          "name": "Apollo"
         },
         {
           "name": "Electron"
         },
         {
-          "name": "Node"
-        },
-        {
-          "name": "Flusk"
+          "name": "Django"
         },
         {
           "name": "Express"
         },
         {
-          "name": "Koa"
+          "name": "Flask"
         },
         {
           "name": "Gatsby"
         },
         {
-          "name": "Apollo"
+          "name": "GraphQL"
         },
         {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
+          "name": "matterJS"
         },
         {
           "name": "Next"
         },
         {
-          "name": "Amplify"
+          "name": "Node"
         },
         {
           "name": "Pixi"
         },
         {
-          "name": "Phaser"
+          "name": "P5JS"
         },
         {
-          "name": "Feathers"
+          "name": "React"
+        },
+        {
+          "name": "React Native"
+        },
+        {
+          "name": "ThreeJS"
         }
       ]
     },
@@ -168,12 +122,6 @@
         },
         {
           "name": "Unity"
-        },
-        {
-          "name": "Godot"
-        },
-        {
-          "name": "Google Analytics"
         }
       ]
     },
@@ -185,124 +133,138 @@
           "name": "Postgresql"
         },
         {
-          "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
+          "name": "MongoDB"
         },
         {
           "name": "Firebase"
-        },
-        {
-          "name": "Elastic Search"
         }
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "I consider myself a self-motivated person with a love to learn. I enjoy programming and working with others to build great, innovative products. I constantly assign myself small-scale projects to better my programming skills and teach myself new technologies. I pride myself on my ability to learn and absorb knowledge at a fast pace and put it into practice.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "Taipei American School",
+      "degree": "Honors Linear Algebra, Honors Modern Topics in Computer Science, Honors Perform. & Distributed Computing, Computer Science Research, AP Statistic, AP Calculus BC, Honors Videogame Programming, Honors Artificial Intelligence, AP Computer Science",
+      "start": "2014",
+      "end": "now",
+      "link": "https://www.tas.edu.tw/"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Udemy",
+      "link": "https://www.udemy.com/",
+      "courses": [
+        {
+          "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+          "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+        },
+        {
+          "name": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+          "link": "https://www.udemy.com/course/mern-stack-front-to-back/"
+        },
+        {
+          "name": "Understanding TypeScript - 2020 Edition",
+          "link": "https://www.udemy.com/course/understanding-typescript/"
+        },
+        {
+          "name": "The Complete React Native + Hooks Course [2020 Edition]",
+          "link": "https://www.udemy.com/course/the-complete-react-native-and-redux-course/"
+        },
+        {
+          "name": "The Modern GraphQL Bootcamp (with Node.js and Apollo)",
+          "link": "https://www.udemy.com/course/graphql-bootcamp/"
+        },
+        {
+          "name": "The Complete Node.js Developer Course (3rd Edition)",
+          "link": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/"
+        },
+        {
+          "name": "Master Electron: Desktop Apps with HTML, JavaScript & CSS",
+          "link": "https://www.udemy.com/course/master-electron/"
+        },
+        {
+          "name": "JavaScript Algorithms and Data Structures Masterclass",
+          "link": "https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/"
+        },
+        {
+          "name": "Python and Django Full Stack Web Developer Bootcamp",
+          "link": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/"
+        },
+        {
+          "name": "Complete Guide to TensorFlow for Deep Learning with Python",
+          "link": "https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/"
+        },
+        {
+          "name": "Complete C# Unity Game Developer 3D",
+          "link": "https://www.udemy.com/course/unitycourse2/"
+        },
+        {
+          "name": "The Complete JavaScript Course 2020: From Zero to Expert!",
+          "link": "https://www.udemy.com/course/the-complete-javascript-course/"
+        },
+        {
+          "name": "Build Responsive Real World Websites with HTML5 and CSS3",
+          "link": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/"
+        }
+      ],
+      "start": "2018",
+      "end": "now"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
-      "end": ""
+      "role": "Web Software Developer",
+      "company": "RemoteNC",
+      "description": "I created the company's CloudMill service, a web app that allows users to view and control CNC milling machines remotely from the web. I used P2P connections to transfer video and other data at near-instantaneous speeds from and to the user. I also created the app’s authentication system and designed the app’s UI.",
+      "start": "07/2020",
+      "end": "",
+      "link": "https://www.remotenc.com/"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "Co-Founder",
+      "company": "Bottable",
+      "description": "Bottable is a tech startup founded by myself alongside three other friends. Our current objective is to create a fully functional web-scraper with a friendly and easy-to-use UI and attractive functionality. My primary focus on this project has been developing the front-end of the app, as well as the company’s UI library.",
+      "start": "06/2020",
+      "end": "",
+      "link": "https://bottable.io/"
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Teacher Assistant",
+      "company": "Skyrock Projects",
+      "description": "Skyrock Project is an educational organization focused on teaching young children basic programming knowledge through Spring and Summer camps. During my internship there, I helped create a Python course aimed for kids and assisted in teaching JavaScript.",
+      "start": "07/2018",
+      "end": "07/2018",
+      "link": "https://www.skyrockprojects.com/"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
+      "service": "mail",
+      "url": "mailto:zunigaruizb@gmail.com"
     },
     {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://www.linkedin.com/in/baltazar-zuniga-ruiz-344a001b3/"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://github.com/balta-z-r"
     }
   ],
-  "role": "Technologist",
+  "role": "Fullstack Developer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
+      "name": "The Room",
       "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "description": "“The Room” is a game on the web which was created by a friend and I. It’s simple and fun to play. It comes with randomly generated levels, well-designed graphics, powerups and gets increasingly harder as you progress, which adds a level of challenge. I utilized my knowledge of data structures and algorithms to randomly generate each level and have the enemy follow the player around. For this project, I used Javascript and P5 for graphics.",
+      "link": "https://github.com/balta-z-r/the-room/"
+    },
+    {
+      "name": "mine.js (previously mc.js)",
+      "company": "Open source",
+      "description": "I had the opportunity to work on this ambitious project with my friend where we attempted to recreate the famous game Minecraft on the web. I was in charge of lighting, which allowed me to get experience with ThreeJS, a Javascript library for 3D graphics. Ultimately the project was taken down by a DMCA notice.",
+      "link": "https://github.com/ian13456/mine.js"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Baltazar Zuniga Ruiz"
 }

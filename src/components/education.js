@@ -6,8 +6,25 @@ const Education = ({ data }) => (
     {data &&
       data.map(item => (
         <div className="my-2" key={item.degree}>
-          <h2 className="item-header text-lg">{item.degree}</h2>
-          <h3 className="item-sub">{item.institution}</h3>
+          <h2 className="item-header text-lg">
+            <a href={item.link} target="_blank" className="hover">
+              {item.institution}
+            </a>
+          </h2>
+          {item.degree && <h3 className="item-sub">{item.degree}</h3>}
+          {item.courses &&
+            item.courses.map(({ name, link }, idx) => (
+              <>
+                <a href={link} target="_blank" className="item-sub hover">
+                  {name}
+                </a>
+                {idx === item.courses.length - 1 ? null : (
+                  <h3 className="item-sub" style={{ display: 'inline' }}>
+                    ,{' '}
+                  </h3>
+                )}
+              </>
+            ))}
           <p className="text-sm text-neutral-500 font-light">
             {item.start} - {item.end}
           </p>

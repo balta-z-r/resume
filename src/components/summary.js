@@ -5,7 +5,7 @@ const Summary = ({ data }) => (
     <div className="my-5">
       <img
         className="rounded-full mx-auto w-32 lg:w-full xl:w-4/5"
-        src="./profile.jpg"
+        src="./me.jpeg"
         alt="profile"
       />
     </div>
