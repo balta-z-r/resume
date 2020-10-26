@@ -30,6 +30,38 @@ const Home = () => (
           {resume.projects && <Projects data={resume.projects} />}
         </div>
         <div className="lg:w-1/3 lg:pl-8 lg:border-l lg:border-neutral-300 ">
+          <h1 className="section-header">Academics</h1>
+          <div style={{ margin: '20px 0' }}>
+            <h2 className="item-header text-lg">Weighted GPA: 4.31</h2>
+          </div>
+          <div style={{ margin: '20px 0' }}>
+            <h2 className="item-header text-lg">SAT Superscore: 1540</h2>
+          </div>
+          <div style={{ margin: '20px 0 8px 0' }}>
+            <h2 className="item-header text-lg" style={{ marginBottom: 8 }}>
+              AP Scores
+            </h2>
+            {resume.aps &&
+              resume.aps.map(ap => {
+                return (
+                  <span key={ap} className="tag">
+                    {ap}
+                  </span>
+                );
+              })}
+          </div>
+          <h1 className="section-header">Honors & Awards</h1>
+          <div style={{ margin: '20px 0' }}>
+            {resume.honors &&
+              resume.honors.map(honor => {
+                return (
+                  <div style={{ marginBottom: 16 }}>
+                    <h2 className="item-header text-lg">{honor.name}</h2>
+                    <h3 className="item-sub">{honor.subtitle}</h3>
+                  </div>
+                );
+              })}
+          </div>
           {resume.skills && <Skills data={resume.skills} />}
           {resume.sidebar &&
             resume.sidebar.map(item => (

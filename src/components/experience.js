@@ -13,6 +13,7 @@ const Experience = ({ data }) => (
             </a>{' '}
             | {item.start} - {item.end || 'PRESENT'}
           </h3>
+          <h3 className="item-sub">{item.extra}</h3>
           <p className="py-6">{item.description}</p>
         </article>
       ))}

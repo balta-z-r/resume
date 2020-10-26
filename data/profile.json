@@ -5,6 +5,31 @@
     "website": "https://balta-z-r.com",
     "location": "Taipei, Taiwan"
   },
+  "aps": [
+    "Calculus BC - 5",
+    "Statistic - 5",
+    "Microeconomics - 5",
+    "Macroeconomics - 5",
+    "US History - 5",
+    "European History - 5",
+    "Computer Science A - 5",
+    "World History - 5"
+  ],
+  "honors": [
+    {
+      "name": "National Hispanic Scholar",
+      "subtitle": "College Board - 11th grade"
+    },
+    {
+      "name": "AP Scholar with Distinction",
+      "subtitle": "College Board - 11th grade"
+    },
+    { "name": "AP Scholar", "subtitle": "College Board - 10th grade" },
+    {
+      "name": "Honor Roll",
+      "subtitle": "Taipei American School - 9th, 10th, 11th, 12th grade"
+    }
+  ],
   "skills": [
     {
       "title": "General",
@@ -221,7 +246,8 @@
       "description": "I created the company's CloudMill service, a web app that allows users to view and control CNC milling machines remotely from the web. I used P2P connections to transfer video and other data at near-instantaneous speeds from and to the user. I also created the app’s authentication system and designed the app’s UI.",
       "start": "07/2020",
       "end": "",
-      "link": "https://www.remotenc.com/"
+      "link": "https://www.remotenc.com/",
+      "extra": "6 hrs / week; 30 weeks / year; 12th grade"
     },
     {
       "role": "Co-Founder",
@@ -229,7 +255,8 @@
       "description": "Bottable is a tech startup founded by myself alongside three other friends. Our current objective is to create a fully functional web-scraper with a friendly and easy-to-use UI and attractive functionality. My primary focus on this project has been developing the front-end of the app, as well as the company’s UI library.",
       "start": "06/2020",
       "end": "",
-      "link": "https://bottable.io/"
+      "link": "https://bottable.io/",
+      "extra": "6 hrs / week; 30 weeks / year; 12th grade"
     },
     {
       "role": "Teacher Assistant",
@@ -237,7 +264,8 @@
       "description": "Skyrock Project is an educational organization focused on teaching young children basic programming knowledge through Spring and Summer camps. During my internship there, I helped create a Python course aimed for kids and assisted in teaching JavaScript.",
       "start": "07/2018",
       "end": "07/2018",
-      "link": "https://www.skyrockprojects.com/"
+      "link": "https://www.skyrockprojects.com/",
+      "extra": "40 hrs / week; 2 weeks / year; 10th grade"
     }
   ],
   "social": [
@@ -260,19 +288,22 @@
       "name": "FiberUI",
       "company": "Bottable / Open source",
       "description": "FiberUI is an open-source, opinionated React UI Component library. Its main purpose is to be used to create Bottable’s products, but we hope to soon expand this. I’ve been working closely to develop this UI library and make its API developer-friendly. We also intend to differentiate FiberUI from other UI libraries through its unique style.",
-      "link": "https://github.com/bottable/fiber"
+      "link": "https://github.com/bottable/fiber",
+      "extra": "4 hrs / week; 30 weeks / year; 12th grade"
     },
     {
       "name": "The Room",
       "company": "Open source",
       "description": "“The Room” is a game on the web which was created by a friend and I. It’s simple and fun to play. It comes with randomly generated levels, well-designed graphics, powerups and gets increasingly harder as you progress, which adds a level of challenge. I utilized my knowledge of data structures and algorithms to randomly generate each level and have the enemy follow the player around. For this project, I used Javascript and P5 for graphics.",
-      "link": "https://github.com/balta-z-r/the-room/"
+      "link": "https://github.com/balta-z-r/the-room/",
+      "extra": "6 hrs / week; 2 weeks / year; 11th grade"
     },
     {
       "name": "mine.js (previously mc.js)",
       "company": "Open source",
-      "description": "I had the opportunity to work on this ambitious project with my friend where we attempted to recreate the famous game Minecraft on the web. I was in charge of lighting, which allowed me to get experience with ThreeJS, a Javascript library for 3D graphics. Ultimately the project was taken down by a DMCA notice.",
-      "link": "https://github.com/ian13456/mine.js"
+      "description": "I had the opportunity to work on this ambitious project with my friend where we atextrated to recreate the famous game Minecraft on the web. I was in charge of lighting, which allowed me to get experience with ThreeJS, a Javascript library for 3D graphics. Ultimately the project was taken down by a DMCA notice.",
+      "link": "https://github.com/ian13456/mine.js",
+      "extra": "2 hrs / week; 4 weeks / year; 11th grade"
     }
   ],
   "fullname": "Baltazar Zuniga Ruiz"
