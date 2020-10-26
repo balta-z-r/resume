@@ -133,13 +133,13 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "Firebase"
         },
         {
           "name": "MongoDB"
         },
         {
-          "name": "Firebase"
+          "name": "Postgresql"
         }
       ]
     }
@@ -256,6 +256,12 @@
   ],
   "role": "Fullstack Developer",
   "projects": [
+    {
+      "name": "FiberUI",
+      "company": "Bottable / Open source",
+      "description": "FiberUI is an open-source, opinionated React UI Component library. Its main purpose is to be used to create Bottable’s products, but we hope to soon expand this. I’ve been working closely to develop this UI library and make its API developer-friendly. We also intend to differentiate FiberUI from other UI libraries through its unique style.",
+      "link": "https://github.com/bottable/fiber"
+    },
     {
       "name": "The Room",
       "company": "Open source",
