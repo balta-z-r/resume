@@ -24,7 +24,10 @@
       "name": "AP Scholar with Distinction",
       "subtitle": "College Board - 11th grade"
     },
-    { "name": "AP Scholar", "subtitle": "College Board - 10th grade" },
+    {
+      "name": "AP Scholar",
+      "subtitle": "College Board - 10th grade"
+    },
     {
       "name": "Honor Roll",
       "subtitle": "Taipei American School - 9th, 10th, 11th, 12th grade"
@@ -77,7 +80,6 @@
           "name": "Javascript / Typescript",
           "percent": 95
         },
-
         {
           "name": "Python",
           "percent": 85
@@ -173,7 +175,7 @@
   "education": [
     {
       "institution": "Taipei American School",
-      "degree": "Honors Linear Algebra, Honors Modern Topics in Computer Science, Honors Perform. & Distributed Computing, Computer Science Research, AP Statistic, AP Calculus BC, Honors Videogame Programming, Honors Artificial Intelligence, AP Computer Science",
+      "degree": "Honors Differential Equations, Honors Linear Algebra, Honors Modern Topics in Computer Science, Honors Perform. & Distributed Computing, Computer Science Research, AP Statistic, AP Calculus BC, Honors Videogame Programming, Honors Artificial Intelligence, AP Computer Science",
       "start": "2014",
       "end": "now",
       "link": "https://www.tas.edu.tw/"
@@ -284,6 +286,12 @@
   ],
   "role": "Fullstack Developer",
   "projects": [
+    {
+      "name": "Peerly",
+      "comapany": "Open source",
+      "description": "Peerly (not to be confused with peerly.com) is a project meant to showcase the multiple functionalities of a P2P network, such as cryptocurrencty, texting, and video streaming. The project is entirely built by me and meant mainly as a learning experience. I utilized the js-libp2p and the simple-peer library to create the P2P network. The project comes with a both a front-end and back-end, with the front-end mainly serving as a friendly UI and the back-end serving to connect the app with the P2P network.",
+      "link:": "https://github.com/balta-z-r/peerly"
+    },
     {
       "name": "FiberUI",
       "company": "Bottable / Open source",

@@ -32,7 +32,7 @@ const Home = () => (
         <div className="lg:w-1/3 lg:pl-8 lg:border-l lg:border-neutral-300 ">
           <h1 className="section-header">Academics</h1>
           <div style={{ margin: '20px 0' }}>
-            <h2 className="item-header text-lg">Weighted GPA: 4.31</h2>
+            <h2 className="item-header text-lg">Weighted GPA: 4.35</h2>
           </div>
           <div style={{ margin: '20px 0' }}>
             <h2 className="item-header text-lg">SAT Superscore: 1540</h2>
